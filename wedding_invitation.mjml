@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="430px" />
+  </mj-head>
+  <mj-body>
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/banner.jpg" background-size="cover">
+      <mj-column>
+        <mj-spacer height="250px" />
+        <mj-image width="380px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/ReginaAndIan_.png"></mj-image>
+        <mj-spacer height="50px" />
+        <mj-image width="200px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/invite_slogan.png"></mj-image>
+        <mj-spacer height="50px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
+      <mj-column>
+        <mj-image width="450px" padding-top="30px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/Wedding_Invitation.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
+      <mj-column>
+        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/pic1_r.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/host_info.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
+      <mj-column>
+        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/pic2_r.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/dest_info.png"></mj-image>
+        <mj-social inner-padding="9px" padding-top="0px">
+          <mj-social-element icon-size="23px" href="https://goo.gl/maps/S9Kzsj94eWPXAB3v6" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/map_icon.png">
+          </mj-social-element>
+          <mj-social-element icon-size="23px" href="https://www.taipeimarriott.com.tw/files/page_1555431687107wd3h54.png" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/drive_icon.png">
+          </mj-social-element>
+          <mj-social-element icon-size="19px" href="https://www.taipeimarriott.com.tw/files/page_1555431687107wd3h54.png" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/mrt_icon_.png">
+          </mj-social-element>
+          <mj-social-element icon-size="20px" href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGVnMzNnbXZtYmZrcXZpNWJmM3NmbTM1cm8gYjQwZmE4OGM3OGEwODc1MjNhMGNhMTYxNzliZjAxZjg2MTUwNDIyYjRjYjdhN2ExZDc4Y2RiMzU0YjI0YzEzZUBn&tmsrc=b40fa88c78a087523a0ca16179bf01f86150422b4cb7a7a1d78cdb354b24c13e%40group.calendar.google.com" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/g_calendar_icon.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/footer.png" background-size="cover">
+      <mj-column>
+        <mj-spacer height="400px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
