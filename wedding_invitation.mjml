@@ -1,6 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-breakpoint width="430px" />
+    <mj-title>Wedding Invitation from Ian & Regina</mj-title>
+    <mj-breakpoint width="420px"></mj-breakpoint>
   </mj-head>
   <mj-body>
     <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/banner.jpg" background-size="cover">
@@ -14,13 +15,15 @@
     </mj-section>
     <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
       <mj-column>
-        <mj-image width="450px" padding-top="30px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/Wedding_Invitation.png"></mj-image>
+        <mj-image width="450px" padding-top="30px" padding-bottom="5px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/Wedding_Invitation.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
       <mj-column>
-        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/pic1_r.png"></mj-image>
+        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/pic1.jpg"></mj-image>
       </mj-column>
+    </mj-section>>
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
       <mj-column>
         <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/host_info.png"></mj-image>
       </mj-column>
@@ -29,23 +32,31 @@
       <mj-column>
         <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/pic2_r.jpg"></mj-image>
       </mj-column>
+    </mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
       <mj-column>
-        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/dest_info.png"></mj-image>
-        <mj-social inner-padding="9px" padding-top="0px">
-          <mj-social-element icon-size="23px" href="https://goo.gl/maps/S9Kzsj94eWPXAB3v6" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/map_icon.png">
+        <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/location_infos.png"></mj-image>
+        <mj-social inner-padding="11px" icon-size="23px" padding-top="10px" padding-bottom="30px">
+          <mj-social-element href="https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97/@25.0804515,121.5589435,15z/data=!4m9!3m8!1s0x3442ac0d57cba929:0xa49b99c29ceddf8a!5m2!4m1!1i2!8m2!3d25.0804515!4d121.5589435!16s%2Fg%2F11b6hw8676" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/google_map_icon.png">
           </mj-social-element>
-          <mj-social-element icon-size="23px" href="https://www.taipeimarriott.com.tw/files/page_1555431687107wd3h54.png" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/drive_icon.png">
+          <mj-social-element href="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/traffic_map.png" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/car_icon.png">
           </mj-social-element>
-          <mj-social-element icon-size="19px" href="https://www.taipeimarriott.com.tw/files/page_1555431687107wd3h54.png" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/mrt_icon_.png">
+          <mj-social-element href="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/traffic_map.png" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/mrt_icon.png">
           </mj-social-element>
-          <mj-social-element icon-size="20px" href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGVnMzNnbXZtYmZrcXZpNWJmM3NmbTM1cm8gYjQwZmE4OGM3OGEwODc1MjNhMGNhMTYxNzliZjAxZjg2MTUwNDIyYjRjYjdhN2ExZDc4Y2RiMzU0YjI0YzEzZUBn&tmsrc=b40fa88c78a087523a0ca16179bf01f86150422b4cb7a7a1d78cdb354b24c13e%40group.calendar.google.com" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/g_calendar_icon.png">
+          <mj-social-element href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTllbWVyMnMwcTdhMDhsaDRpamQ2cWY1czIgZTViMmJlMjI2ZWUxNzZiYjYyYzZmZjc2N2U0N2YwMWEyNzM2NDBkYTFiNmUwMDgxY2VlZmRhYjNhN2M5ODZlM0Bn&tmsrc=e5b2be226ee176bb62c6ff767e47f01a273640da1b6e0081ceefdab3a7c986e3%40group.calendar.google.com" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/g_calendar_icon.png">
           </mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
-    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/footer.png" background-size="cover">
+    <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/footers.png" background-size="cover">
       <mj-column>
         <mj-spacer height="400px" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#BCBCBC">Looking forward to seeing you.</mj-text>
+        <mj-text align="center" color="#BCBCBC" padding-top="0px">Feel free to contact us.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
