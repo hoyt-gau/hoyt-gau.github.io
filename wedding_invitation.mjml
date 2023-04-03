@@ -36,7 +36,7 @@
     <mj-section background-url="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/background.jpg" background-size="cover">
       <mj-column>
         <mj-image padding="15px" padding-top="0px" padding-bottom="0px" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/location_infos.png"></mj-image>
-        <mj-social inner-padding="11px" icon-size="23px" padding-top="10px" padding-bottom="30px">
+        <mj-social inner-padding="11px" icon-size="23px" padding-top="10px" padding-bottom="75px">
           <mj-social-element href="https://www.google.com/maps/place/%E5%8F%B0%E5%8C%97%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97/@25.0804515,121.5589435,15z/data=!4m9!3m8!1s0x3442ac0d57cba929:0xa49b99c29ceddf8a!5m2!4m1!1i2!8m2!3d25.0804515!4d121.5589435!16s%2Fg%2F11b6hw8676" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/google_map_icon.png">
           </mj-social-element>
           <mj-social-element href="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/traffic_map.png" target="_blank" src="https://raw.githubusercontent.com/hoyt-gau/epic-repo/main/car_icon.png">
